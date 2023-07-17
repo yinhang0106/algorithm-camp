@@ -1,0 +1,1 @@
+add_executable(242-vaild-anagram 242-vaild-anagram.cpp)
